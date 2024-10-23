@@ -1,0 +1,1 @@
+# event-mananger-api-cosmosdb
